@@ -1,0 +1,9 @@
+{
+"manifest_version": 2,
+    "name": "[your extension name here]",
+    "description": "[your extension description here]",
+    "version": "1.0",
+    "browser_action":{
+        "default_popup": "popup.html"
+    }
+}
